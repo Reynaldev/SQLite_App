@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SQLiteProject</string>
+    <string name="objective">Input Name and Price</string>
+    <string name="btnAddText">Add</string>
+    <string name="idLabel">Id</string>
+    <string name="nameLabel">Name</string>
+    <string name="priceLabel">Price</string>
+</resources>
